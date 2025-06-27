@@ -6,7 +6,7 @@ Ce dépôt contient les exercices réalisés lors du **Hackaton Go** organisé p
 - 🔁 **Rythme** : un nouvel exercice toutes les **2 heures**
 - 🌙 **Durée** : 24h non-stop, jusqu'au lendemain 9h
 - 🧑‍💻 **Lieu** : en présentiel au campus Saint-Marc, Rouen
-- 🌌 **A**mbiance** : nuit blanche, code, boissons énergisantes... et beaucoup d'entraide ! 💪
+- 🌌 **Ambiance** : nuit blanche, code, boissons énergisantes... et beaucoup d'entraide ! 💪
 
 ## Objectifs
 - Mettre en pratique l'ensemble des notions acquises durant les premières semaines de la piscine golang.
