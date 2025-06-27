@@ -14,18 +14,18 @@ Ce dépôt contient les exercices réalisés lors du **Hackaton Go** organisé p
 - Apprendre à travailler en autonomie et en entraide dans un contexte intensif.
 
 ## Contenu
-[rot14.go](./rot14.go) : .<br>
-[abort.go](./abort.go) : .<br>
-[collatzcountdown.go](./collatzcountdown.go) : .<br>
-[comcheck](./comcheck/main.go) : .<br>
-[enigma.go](./enigma.go) : .<br>
-[pilot](./pilot/main.go) : .<br>
-[fixthemain](./fixthemain/main.go) : .<br>
-[compact.go](./compact.go) : .<br>
-[activebits.go](./activebits.go) : .<br>
-[max.go](./max.go) : .<br>
-[unmatch.go](./unmatch.go) : .<br>
-[join.go](./join.go) : .<br>
+[rot14.go](./rot14.go) : Chiffrement [ROT14](./https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) d'une chaîne de caractères.<br>
+[abort.go](./abort.go) : Retourne la [médiane](./https://fr.wikipedia.org/wiki/M%C3%A9diane_(statistiques)) de 5 entiers.<br>
+[collatzcountdown.go](./collatzcountdown.go) : Calcule le nombre d'étapes de la [conjecture de Collatz](./https://fr.wikipedia.org/wiki/Conjecture_de_Syracuse).<br>
+[comcheck](./comcheck/main.go) : Détecte la présence de mots sentibles dans les arguments.<br>
+[enigma.go](./enigma.go) : Manipulation avancée de pointeurs multiples.<br>
+[pilot](./pilot/main.go) : Déclaration et affichage d'une structure ```Pilot```.<br>
+[fixthemain](./fixthemain/main.go) : Corriger un programme de gestion d'état d'une porte.<br>
+[compact.go](./compact.go) : Nettoie une clice de chaînes en supprimant les valeurs 'falsy'.<br>
+[activebits.go](./activebits.go) : Compte le nombre de bits à 1 dans la représentation binaire d'un entier.<br>
+[max.go](./max.go) : Retounrne la plus grande valeur d'une slice d'entiers.<br>
+[unmatch.go](./unmatch.go) : Trouve la veleur sans paire dans une slice.<br>
+[join.go](./join.go) : Concatène une slice de chaînes avec un séparateur.<br>
 
 ## Ce que j'ai appris
 - L'importance de l'organisation sous contrainte de temps.
