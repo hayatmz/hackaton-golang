@@ -1,5 +1,5 @@
 # 🧠 Hackaton Golang - Piscine Zone01
-Ce dépôt contient les exercices réalisés lors du **Hackaton Go** organisé pendant la 3ᵉ semaine de la [piscine Golang](./https://github.com/hayatmz/piscine-golang) sur le campus Zone01.
+Ce dépôt contient les exercices réalisés lors du **Hackaton Go** organisé pendant la 3ᵉ semaine de la [piscine Golang](https://github.com/hayatmz/piscine-golang) sur le campus Zone01.
 
 ## 📅 Contexte
 - 🕘 **Début** : 9h du matin
@@ -14,9 +14,9 @@ Ce dépôt contient les exercices réalisés lors du **Hackaton Go** organisé p
 - Apprendre à travailler en autonomie et en entraide dans un contexte intensif.
 
 ## Contenu
-[rot14.go](./rot14.go) : Chiffrement [ROT14](./https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) d'une chaîne de caractères.<br>
-[abort.go](./abort.go) : Retourne la [médiane](./https://fr.wikipedia.org/wiki/M%C3%A9diane_(statistiques)) de 5 entiers.<br>
-[collatzcountdown.go](./collatzcountdown.go) : Calcule le nombre d'étapes de la [conjecture de Collatz](./https://fr.wikipedia.org/wiki/Conjecture_de_Syracuse).<br>
+[rot14.go](./rot14.go) : Chiffrement [ROT14](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) d'une chaîne de caractères.<br>
+[abort.go](./abort.go) : Retourne la [médiane](https://fr.wikipedia.org/wiki/M%C3%A9diane_(statistiques)) de 5 entiers.<br>
+[collatzcountdown.go](./collatzcountdown.go) : Calcule le nombre d'étapes de la [conjecture de Collatz](https://fr.wikipedia.org/wiki/Conjecture_de_Syracuse).<br>
 [comcheck](./comcheck/main.go) : Détecte la présence de mots sentibles dans les arguments.<br>
 [enigma.go](./enigma.go) : Manipulation avancée de pointeurs multiples.<br>
 [pilot](./pilot/main.go) : Déclaration et affichage d'une structure ```Pilot```.<br>
@@ -39,7 +39,7 @@ Pour explorer ou tester les projets localement :
 1. Assure toi dd'avoir Go installé sur ta machine. Tu peux vérifier avec :<br>
 ```go version```<br>
 
-Si besoin, [installe Golang](./golang.org/dl)
+Si besoin, [installe Golang](golang.org/dl)
 
 2. Cloner le dépôt :<br>
 
