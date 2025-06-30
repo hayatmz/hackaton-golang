@@ -39,7 +39,7 @@ Pour explorer ou tester les projets localement :
 1. Assure toi dd'avoir Go installé sur ta machine. Tu peux vérifier avec :<br>
 ```go version```<br>
 
-Si besoin, [installe Golang](golang.org/dl)
+Si besoin, [installe Golang](https://go.dev/doc/install)
 
 2. Cloner le dépôt :<br>
 
