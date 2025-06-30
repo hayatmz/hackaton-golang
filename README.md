@@ -37,27 +37,43 @@ Ce dépôt contient les exercices réalisés lors du **Hackaton Go** organisé p
 Pour explorer ou tester les projets localement :
 
 1. Assure toi dd'avoir Go installé sur ta machine. Tu peux vérifier avec :<br>
-```go version```<br>
+```
+go version
+```
 
 Si besoin, [installe Golang](https://go.dev/doc/install)
 
 2. Cloner le dépôt :<br>
 
-```git clone https://github.com/hayatmz/hackaton-golang```<br>
-```cd hackaton-golang```<br>
+```
+git clone https://github.com/hayatmz/hackaton-golang
+```
+```
+cd hackaton-golang
+```
 
 Si ton dossier n'a pas encore de module Go, commence par :<br>
-```go mod init piscine```<br>
+```
+go mod init piscine
+```
 
 Pour installer la bibliothèque pédagogique de Zone01 (utilisée pour **fixthemain/main.go**) :<br>
-```go get github.com/01-edu/z01```<br>
+```
+go get github.com/01-edu/z01
+```
 
 3. Pour lancer un fichier unique (hors dossier spécifique) :<br>
-```go run nom_du_fichier.go```<br>
+```
+go run nom_du_fichier.go
+```
 
 **Et** pour lancer les fichiers situés dans un dossier :<br>
-```cd nom_du_dossier```<br>
-```go run main.go```<br>
+```
+cd nom_du_dossier
+```
+```
+go run main.go
+```
 
 4. Pour compiler puis exécuter :<br>
 ```go build nom_du_fichier.go```<br>
