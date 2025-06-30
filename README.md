@@ -76,5 +76,9 @@ go run main.go
 ```
 
 4. Pour compiler puis exécuter :<br>
-```go build nom_du_fichier.go```<br>
-```./nom_du_fichier```
+```
+go build nom_du_fichier.go
+```
+```
+./nom_du_fichier
+```
